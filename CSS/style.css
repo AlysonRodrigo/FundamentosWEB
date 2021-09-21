@@ -1,0 +1,44 @@
+.body{
+    width: 100%;
+}
+.menu li{
+    display: inline;
+    padding: 40px;
+    text-decoration: none;
+}
+.menu li a{
+    text-decoration: none;
+    color: darkmagenta;
+}
+
+.menu li a:hover{
+  
+    color: rgb(22, 134, 18);
+}
+
+.center{
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.containe {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.collor {
+    color: rgb(4, 39, 104);
+}
+.p-10{
+    padding: 20px;
+}
+.br10{
+border-radius: 60%;
+}

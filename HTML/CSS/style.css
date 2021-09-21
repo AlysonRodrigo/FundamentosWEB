@@ -1,0 +1,11 @@
+body{
+    width: 100%;
+}
+.center{
+    text-align: center;
+}
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
